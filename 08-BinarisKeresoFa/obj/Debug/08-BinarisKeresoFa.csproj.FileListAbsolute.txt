@@ -1,0 +1,8 @@
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\08-BinarisKeresoFa\08-BinarisKeresoFa\08-BinarisKeresoFa\bin\Debug\08-BinarisKeresoFa.exe.config
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\08-BinarisKeresoFa\08-BinarisKeresoFa\08-BinarisKeresoFa\bin\Debug\08-BinarisKeresoFa.exe
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\08-BinarisKeresoFa\08-BinarisKeresoFa\08-BinarisKeresoFa\bin\Debug\08-BinarisKeresoFa.pdb
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\08-BinarisKeresoFa\08-BinarisKeresoFa\08-BinarisKeresoFa\obj\Debug\08-BinarisKeresoFa.csproj.AssemblyReference.cache
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\08-BinarisKeresoFa\08-BinarisKeresoFa\08-BinarisKeresoFa\obj\Debug\08-BinarisKeresoFa.csproj.SuggestedBindingRedirects.cache
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\08-BinarisKeresoFa\08-BinarisKeresoFa\08-BinarisKeresoFa\obj\Debug\08-BinarisKeresoFa.csproj.CoreCompileInputs.cache
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\08-BinarisKeresoFa\08-BinarisKeresoFa\08-BinarisKeresoFa\obj\Debug\08-BinarisKeresoFa.exe
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\08-BinarisKeresoFa\08-BinarisKeresoFa\08-BinarisKeresoFa\obj\Debug\08-BinarisKeresoFa.pdb
